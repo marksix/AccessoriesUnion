@@ -1728,6 +1728,9 @@
 .fa-diamond:before {
   content: "\f219";
 }
+.fa-wechat:before {
+  content: "\f1d7";
+}
 .fa-ship:before {
   content: "\f21a";
 }
@@ -2023,4 +2026,7 @@
 }
 .fa-fonticons:before {
   content: "\f280";
+}
+.fa-angle-double-right:before {
+  content: "\f101";
 }
